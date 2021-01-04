@@ -1,0 +1,9 @@
+﻿  F_ServerDlg.cpp
+E:\VS\FTP_Server\F_server\F_Server\F_Server\F_ServerDlg.cpp(285,8): warning C4101: “dwFlags”: 未引用的局部变量
+E:\VS\FTP_Server\F_server\F_Server\F_Server\F_ServerDlg.cpp(287,8): warning C4101: “dwRecvBytes”: 未引用的局部变量
+E:\VS\FTP_Server\F_server\F_Server\F_Server\F_ServerDlg.cpp(491,12): warning C4101: “lpHostEnt”: 未引用的局部变量
+E:\VS\FTP_Server\F_server\F_Server\F_Server\F_ServerDlg.cpp(533): warning C4172: 返回局部变量或临时变量的地址: sendBuf
+F_ServerDlg.obj : error LNK2019: 无法解析的外部符号 "int __cdecl LoginIn(struct SOCKET_INF *)" (?LoginIn@@YAHPAUSOCKET_INF@@@Z)，该符号在函数 "unsigned long __stdcall ProcessTreadIO(void *)" (?ProcessTreadIO@@YGKPAX@Z) 中被引用
+F_ServerDlg.obj : error LNK2019: 无法解析的外部符号 "int __cdecl RecvReq(struct SOCKET_INF *)" (?RecvReq@@YAHPAUSOCKET_INF@@@Z)，该符号在函数 "unsigned long __stdcall ProcessTreadIO(void *)" (?ProcessTreadIO@@YGKPAX@Z) 中被引用
+F_ServerDlg.obj : error LNK2019: 无法解析的外部符号 "int __cdecl DealCommand(struct SOCKET_INF *)" (?DealCommand@@YAHPAUSOCKET_INF@@@Z)，该符号在函数 "unsigned long __stdcall ProcessTreadIO(void *)" (?ProcessTreadIO@@YGKPAX@Z) 中被引用
+E:\VS\FTP_Server\F_server\F_Server\Debug\F_Server.exe : fatal error LNK1120: 3 个无法解析的外部命令

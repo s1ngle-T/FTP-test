@@ -1,0 +1,43 @@
+﻿  AddNew.cpp
+E:\VS\FTP_Server\F_Client\F_Client\AddNew.cpp(84,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\VS\FTP_Server\F_Client\F_Client\AddNew.cpp(86,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  AddServer.cpp
+E:\VS\FTP_Server\F_Client\F_Client\AddServer.cpp(97,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\VS\FTP_Server\F_Client\F_Client\AddServer.cpp(83,7): warning C4101: “buf”: 未引用的局部变量
+  F_Client.cpp
+  F_ClientDlg.cpp
+E:\VS\FTP_Server\F_Client\F_Client\F_ClientDlg.cpp(351,26): warning C4244: “=”: 从“ULONGLONG”转换到“int”，可能丢失数据
+E:\VS\FTP_Server\F_Client\F_Client\F_ClientDlg.cpp(336,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\VS\FTP_Server\F_Client\F_Client\F_ClientDlg.cpp(340,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\VS\FTP_Server\F_Client\F_Client\F_ClientDlg.cpp(379,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\VS\FTP_Server\F_Client\F_Client\F_ClientDlg.cpp(381,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  client.cpp
+E:\VS\FTP_Server\F_Client\F_Client\client.cpp(114,7): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\VS\FTP_Server\F_Client\F_Client\client.cpp(100,8): warning C4101: “p”: 未引用的局部变量
+E:\VS\FTP_Server\F_Client\F_Client\client.cpp(140,7): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\VS\FTP_Server\F_Client\F_Client\client.cpp(159,6): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\VS\FTP_Server\F_Client\F_Client\client.cpp(178,6): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\VS\FTP_Server\F_Client\F_Client\client.cpp(197,7): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\VS\FTP_Server\F_Client\F_Client\client.cpp(221,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\VS\FTP_Server\F_Client\F_Client\client.cpp(223,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\VS\FTP_Server\F_Client\F_Client\client.cpp(231,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\VS\FTP_Server\F_Client\F_Client\client.cpp(292,31): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\VS\FTP_Server\F_Client\F_Client\client.cpp(245,16): warning C4101: “sum”: 未引用的局部变量
+E:\VS\FTP_Server\F_Client\F_Client\client.cpp(241,23): warning C4101: “i”: 未引用的局部变量
+E:\VS\FTP_Server\F_Client\F_Client\client.cpp(336,6): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\VS\FTP_Server\F_Client\F_Client\client.cpp(419,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\VS\FTP_Server\F_Client\F_Client\client.cpp(427,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\VS\FTP_Server\F_Client\F_Client\client.cpp(442,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\VS\FTP_Server\F_Client\F_Client\client.cpp(477,7): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\VS\FTP_Server\F_Client\F_Client\client.cpp(483,8): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\VS\FTP_Server\F_Client\F_Client\client.cpp(523,6): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\VS\FTP_Server\F_Client\F_Client\client.cpp(562,6): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\VS\FTP_Server\F_Client\F_Client\client.cpp(610,34): warning C4244: “=”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+E:\VS\FTP_Server\F_Client\F_Client\client.cpp(621,6): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\VS\FTP_Server\F_Client\F_Client\client.cpp(654,6): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\VS\FTP_Server\F_Client\F_Client\client.cpp(697,7): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\VS\FTP_Server\F_Client\F_Client\client.cpp(723,7): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\VS\FTP_Server\F_Client\F_Client\client.cpp(750,7): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\VS\FTP_Server\F_Client\F_Client\client.cpp(776,7): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
+  F_Client.vcxproj -> E:\VS\FTP_Server\F_Client\x64\Debug\F_Client.exe
